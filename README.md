@@ -1,2 +1,9 @@
-# csaddasdadad
-adadadsdadsdwasdwasdwasd
+# 음식 모드 (페브릭 26.3)
+
+크리에이티브 "음식과 음료" 탭에 `음식` 블록(접시 위 음식)을 추가합니다. 우클릭으로 바닥에 설치할 수 있습니다.
+
+## 모드 파일(jar) 만드는 법 (GitHub)
+1. 이 폴더 안의 파일 전체를 GitHub 저장소에 업로드합니다. (.github 폴더 포함)
+2. 저장소의 **Actions** 탭에서 `build`가 초록색 체크가 될 때까지 기다립니다.
+3. 완료된 실행을 눌러 맨 아래 **Artifacts**의 `foodmod-jar`를 받아 압축을 풉니다.
+4. 나온 `foodmod-1.0.0.jar`를 마크 `mods` 폴더에 넣습니다. (Fabric API 0.160.5+26.3 필요)

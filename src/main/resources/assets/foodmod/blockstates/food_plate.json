@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "foodmod:block/food_plate"
+    }
+  }
+}

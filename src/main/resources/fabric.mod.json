@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "foodmod",
+  "version": "1.0.0",
+  "name": "Food Plate",
+  "description": "크리에이티브 음식 탭에 음식 접시 블록을 추가합니다.",
+  "authors": [
+    ""
+  ],
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.foodmod.FoodMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
